@@ -17,3 +17,6 @@ keystore.properties
 keystore/
 *.jks
 *.keystore
+
+# Release builds
+app/release/
